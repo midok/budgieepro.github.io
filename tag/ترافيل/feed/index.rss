@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ترافيل &#8211; BUDGIE</title>
+	<atom:link href="https://www.budgiee.gq/tag/%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D9%84/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.budgiee.gq</link>
+	<description>PROJECT</description>
+	<lastBuildDate>Wed, 29 Apr 2020 01:58:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+
+<image>
+	<url>https://www.budgiee.gq/wp-content/uploads/2020/03/logo-150x150.png</url>
+	<title>ترافيل &#8211; BUDGIE</title>
+	<link>https://www.budgiee.gq</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>أشخاص ملهمة (رحالة)</title>
+		<link>https://www.budgiee.gq/2020/03/21/%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d9%85%d9%84%d9%87%d9%85%d8%a9-%d8%b1%d8%ad%d8%a7%d9%84%d8%a9/</link>
+					<comments>https://www.budgiee.gq/2020/03/21/%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d9%85%d9%84%d9%87%d9%85%d8%a9-%d8%b1%d8%ad%d8%a7%d9%84%d8%a9/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohamed Kamal]]></dc:creator>
+		<pubDate>Sat, 21 Mar 2020 21:47:53 +0000</pubDate>
+				<category><![CDATA[رحالة]]></category>
+		<category><![CDATA[ترافيل]]></category>
+		<guid isPermaLink="false">http://www.budgiee.gq/?p=1022</guid>
+
+					<description><![CDATA[نفسك تسافر ؟ عاوز تروح اماكن جديدة ؟ عاوز تستكشف عادات وتقاليد غيرك او احتي اكلاتهم هنعرضلك بعض الفلوجرز اللي هيخلوك تسافر العالم كله وانت في مكانك وتعيش تجربة السفر 1-رحاليستا: محمد السليني فلوجر ليبي  قرر يسافر حول العالم ويقوم بتجارب جديدة ويشاركها مع الناس. قناة اليوتيوب : https://www.youtube.com/channel/UC44hIHGE2aJmlnBj8WdtTww/about فيسبوك : https://www.facebook.com/Elselini/ 2-بيسوهات: بسام شاب [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.budgiee.gq/2020/03/21/%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d9%85%d9%84%d9%87%d9%85%d8%a9-%d8%b1%d8%ad%d8%a7%d9%84%d8%a9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
